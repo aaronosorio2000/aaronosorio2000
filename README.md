@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **React.js, Tailwind, Node.js, Express**
 - 💬 Ask me about **How to center a div**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aaron-osorio-b33851159/)
-- 🌐 Website [aaronosorio.com](aaronosorio.com)
+- 🌐 Website [aaronosorio.com](https://www.aaronosorio.com/)
 
 <div>
     <h3>🛠 Skillset</h3>
