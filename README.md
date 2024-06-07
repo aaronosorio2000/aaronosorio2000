@@ -1,10 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
    <h1>Hey! my name is Aaron 🤝🏻</h1>
-   <h2 align="justify"> I like to bring ideas to real life through the code. 
-        I love to work on web application using technologies like React, Tailwind, 
-        Express, Flask, MySQL. I'm passionate about solving problems and I've always 
-        been passionate about technology. 
+   <h2 align="justify">I specialize in crafting high-performance mobile and web applications. Passionate about turning ideas into reality through code.
     </h2>
 </div>
 </div>
@@ -14,7 +11,7 @@
 
 ### 🧐 About Me:
 
-- 🔭 I’m currently working on **React.js, Tailwind, Node.js, Express**
+- 🔭 I’m currently working on **React Native, React.js, Redux**
 - 💬 Ask me about **How to center a div**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aaron-osorio-b33851159/)
 - 🌐 Website [aaronosorio.com](https://www.aaronosorio.com/)
@@ -22,20 +19,13 @@
 <div>
     <h3>🛠 Skillset</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
-        title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-         title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
-         title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-         title="React" alt="React" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
-         title="NodeJS" alt="NodeJS" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
-         title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-         title="Python" alt="Python" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
     </div>
 </div>
 
